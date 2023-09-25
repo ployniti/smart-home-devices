@@ -28,7 +28,7 @@ Each class has specific jobs to perform: the location class manages the differen
 the room class manages access to the devices within the room, and the smart device classes change their state according to user inputs. 
 
 # Compile Instructions
-Run `g++ *.cpp` in terminal.
+Run `g++ -std=c++17 *.cpp` in terminal.
 
 # Run Instructions
 Run `./a.out` in terminal.
